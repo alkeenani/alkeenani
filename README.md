@@ -1,38 +1,46 @@
-<h1 align="center">I'm Mohamed Alkenani</h1>
+<div align="center">
 
-<div align="center" width="50%">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
+
+### 👋 Hello, I'm **Mohamed Alkenani**
+🎯 **Full Stack Developer** | 🔐 **Cyber Security Enthusiast**  
+🐧 Linux & 🪟 Windows user | 💻 Working mainly with **VS Code** and **CLion**
 
 ---
 
-<h3 align="center">👋 Hello, I'm Mohamed Alkenani</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=mhmedalkenani&style=flat&color=orange&label=PROFILE+VIEWS)
 
-<p align="center">
-  💻 Full Stack Developer | 🛡️ Cyber Security Enthusiast <br>
-  🐧 Linux & 🪟 Windows user | 🧠 Working mainly with VS Code and CLion
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16aC37EGep/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmed_77_7?igsh=anBqNjM1bnZlN3V4)
+[![Telegram](https://img.shields.io/badge/@mhmedalkenani-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmedalkenani)
 
-<p align="center">
-  <a href="https://www.facebook.com/share/16aC37EGep/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mhmed_77_7?igsh=anBqNjM1bnZlN3V4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/mhmedalkenani"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
 ### 🛠️ Tools & Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+
+### 🧠 About Me
+
+```cpp
+class MohamedAlkenani {
+public:
+    string role = "Full Stack Developer & Cyber Security Learner";
+    string[] platforms = { "Linux", "Windows" };
+    string[] tools = { "VS Code", "CLion" };
+    string favLang = "C++";
+};
