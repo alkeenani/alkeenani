@@ -1,4 +1,4 @@
-ر<div align="center">
+<div align="center">
 
 <!-- بدل الصورة القديمة بجملة متحركة -->
 <h1>
