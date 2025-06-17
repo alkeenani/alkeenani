@@ -1,9 +1,15 @@
-<div align="center">
+ر<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<!-- بدل الصورة القديمة بجملة متحركة -->
+<h1>
+  <span id="dynamic-name" style="font-family: sans-serif; font-weight: bold; font-size: 2.5em; border-bottom: 3px solid #007acc; display: inline-block; padding: 0 10px;">
+    I'm Mohamed Alkenani
+  </span>
+</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
 
-### 👋 Hello, I'm **Mohamed Alkenani**
+### 👋 Hello, I'm **Mohamed Alkenani**  
 🎯 **Full Stack Developer** | 🔐 **Cyber Security Enthusiast**  
 🐧 Linux & 🪟 Windows user | 💻 Working mainly with **VS Code** and **CLion**
 
@@ -44,3 +50,4 @@ public:
     string[] tools = { "VS Code", "CLion" };
     string favLang = "C++";
 };
+<!-- Animation script --> <script> const nameTag = document.getElementById("dynamic-name"); let visible = true; setInterval(() => { nameTag.style.opacity = visible ? "0" : "1"; visible = !visible; }, 1500); </script>
