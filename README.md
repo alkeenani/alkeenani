@@ -40,6 +40,19 @@
 
 ---
 
+### ✨ Personal Motto
+
+_"Code with purpose. Secure with passion. Learn every day."_  
+— **Mohamed Alkenani**
+
+---
+
+### 📬 Contact Me
+
+- 📧 Personal Email: [mhmedalkenani@gmail.com](mailto:mاohamedalkenanimohamed@gmail.com)  
+- 💼 Work Email: [alkenani.dev@proton.me](eng.mohamedalkenani@gmail.com)  
+- 💬 WhatsApp: [Click to Chat on WhatsApp](https://wa.me/201095905886)
+
 ### 🧠 About Me
 
 ```cpp
