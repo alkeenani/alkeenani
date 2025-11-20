@@ -10,14 +10,14 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
 
 ### 👋 Hello, I'm **Mohamed Alkenani**  
-🎯 **Full Stack Developer** | 🔐 **Cyber Security Enthusiast**  
+🎯 **Full Stack Developer** 
 🐧 Linux & 🪟 Windows user | 💻 Working mainly with **VS Code** and **CLion**
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmedalkenani&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alkenani-a86189370)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alkenani-a86189370/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16aC37EGep/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmed_77_7?igsh=anBqNjM1bnZlN3V4)
 [![Telegram](https://img.shields.io/badge/@mhmedalkenani-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmedalkenani)
