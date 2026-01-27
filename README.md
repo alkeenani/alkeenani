@@ -10,7 +10,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
 
 ### 👋 Hello, I'm **Mohamed Alkenani**  
-🎯 **Full Stack Developer** 
+🎯 **Mern Stack Developer** 
 🐧 Linux & 🪟 Windows user | 💻 Working mainly with **VS Code** and **CLion**
 
 ---
