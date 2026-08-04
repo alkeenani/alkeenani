@@ -163,27 +163,6 @@ http://localhost:3000 🚀
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
-⚡ Tech Arsenal
-
-🎨 Front-End
-[ HTML ] [ CSS ] [ JS ] [ React ] [ Tailwind ]
-
-⚙️ Back-End
-[ Node ] [ Express ] [ MongoDB ]
-
-🛠 Development Tools
-[ Git ] [ GitHub ] [ VS Code ] [ Linux ]
-
-──────────────────────────────
-
-📦 Developer Toolbox
-
-Frontend      HTML CSS JS React
-Backend       Node Express MongoDB
-Languages     JS C++
-Tools         Git GitHub VSCode
-
-──────────────────────────────
 
 🚀 Daily Workflow
 
