@@ -147,7 +147,8 @@ http://localhost:3000 🚀
      ▼
 😎 Repeat
 ```
-# 🔥 Technologies I Love
+
+## 🔥 Technologies I Love
 
 <div align="center">
 
@@ -165,7 +166,7 @@ http://localhost:3000 🚀
 
 </div>
 
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -184,14 +185,16 @@ http://localhost:3000 🚀
 </div>
 
 </div>
-# 📈 Contribution Activity
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alkeenani&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
-# 🎯 Current Status
+
+## 🎯 Current Status
 
 <div align="center">
 
@@ -218,7 +221,8 @@ http://localhost:3000 🚀
 
 ██████████████████████████████████████████
 ```
-# 💡 Developer Mindset
+
+## 💡 Developer Mindset
 
 <div align="center">
 
@@ -227,7 +231,8 @@ http://localhost:3000 🚀
 — Cory House
 
 </div>
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -270,7 +275,8 @@ Features:
 | MERN Stack | Authentication | Logic Projects |
 
 </div>
-# 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -285,7 +291,8 @@ Features:
 </picture>
 
 </div>
-# 🌍 Connect With Me
+
+## 🌍 Connect With Me
 
 <div align="center">
 
