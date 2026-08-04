@@ -1,69 +1,280 @@
 <div align="center">
 
-<!-- بدل الصورة القديمة بجملة متحركة -->
-<h1>
-  <span id="dynamic-name" style="font-family: sans-serif; font-weight: bold; font-size: 2.5em; border-bottom: 3px solid #007acc; display: inline-block; padding: 0 10px;">
-    I'm Mohamed Alkenani
-  </span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,50:1e40af,100:06b6d4&text=MOHAMED%20ALKENANI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20CYBER%20SECURITY%20LEARNER&descAlignY=58&descSize=20"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
+<br>
 
-### 👋 Hello, I'm **Mohamed Alkenani**  
-🎯 **Mern Stack Developer** 
-🐧 Linux & 🪟 Windows user | 💻 Working mainly with **VS Code** and **CLion**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Mohamed+System...;Welcome+To+My+Digital+World+⚡;MERN+Stack+Developer+🚀;Building+Modern+Web+Applications;Learning+Cyber+Security+🔐"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║              MOHAMED OS v2.0                         ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  SYSTEM STATUS : 🟢 ONLINE                           ║
+║  USER          : Mohamed Alkenani                    ║
+║  ROLE          : MERN Stack Developer                ║
+║  MODE          : Building & Learning                 ║
+║  LOCATION      : Egypt 🇪🇬                            ║
+║                                                      ║
+║  FRONTEND      : React.js                            ║
+║  BACKEND       : Node.js + Express                   ║
+║  DATABASE      : MongoDB                             ║
+║  SECURITY      : Learning Cyber Security             ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhmedalkenani&style=flat&color=orange&label=PROFILE+VIEWS)
+# 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alkenani-a86189370/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16aC37EGep/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmed_77_7?igsh=anBqNjM1bnZlN3V4)
-[![Telegram](https://img.shields.io/badge/@mhmedalkenani-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmedalkenani)
+```javascript
+const Mohamed = {
 
+    name: "Mohamed Alkenani",
+
+    role: "MERN Stack Developer",
+
+    passion: [
+        "Web Development",
+        "Cyber Security",
+        "Problem Solving"
+    ],
+
+    operatingSystems: [
+        "Linux",
+        "Windows"
+    ],
+
+    editors: [
+        "VS Code",
+        "CLion"
+    ],
+
+    languages: [
+        "JavaScript",
+        "C++",
+        "HTML",
+        "CSS"
+    ],
+
+    currentMission:
+        "Building powerful applications and improving my skills every day"
+
+};
+```
+
+---
+
+# 💻 Terminal
+
+```bash
+Mohamed@Developer:~$ ./start-profile.sh
+
+
+[✓] Loading Developer Profile...
+
+[████████████████████] 100%
+
+
+> Name:
+Mohamed Alkenani
+
+
+> Role:
+MERN Stack Developer
+
+
+> Skills:
+JavaScript
+React
+Node.js
+Express
+MongoDB
+
+
+> Tools:
+Git
+GitHub
+VS Code
+CLion
+
+
+> Status:
+Always Learning 🚀
+
+
+Mohamed@Developer:~$
+```
+
+---
+
+# ⚡ Developer Identity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus">
 
 </div>
 
 ---
 
-### 🛠️ Tools & Languages
+# 🛠 Tech Arsenal
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux,windows,cpp&theme=dark"/>
+
+</div>
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alkeenani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeenani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeenani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
+# 🧠 Current Learning System
 
-### ✨ Personal Motto
-
-_"Code with purpose. Secure with passion. Learn every day."_  
-— **Mohamed Alkenani**
+```text
+╔══════════════════════════════════════════╗
+║              LEARNING MODULE             ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  JavaScript        ██████████ 90%       ║
+║  React             ███████░░░ 70%       ║
+║  Node.js           ██████░░░░ 60%       ║
+║  MongoDB           █████░░░░░ 50%       ║
+║  Cyber Security    ████░░░░░░ 40%       ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
 
 ---
 
-### 📬 Contact Me
+# 🚀 Featured Projects
 
-- 📧 Personal Email: [mohamedalkenanimohamed@gmail.com](mailto:mohamedalkenanimohamed@gmail.com)  
-- 💼 Work Email: [eng.mohamedalkenani@gmail.com](mailto:eng.mohamedalkenani@gmail.com)  
-- 💬 WhatsApp: [Click to Chat on WhatsApp](https://wa.me/201095905886)
+<div align="center">
+
+<a href="https://github.com/alkeenani">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeenani&repo=Guess-The-Word-Game&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 
-### 🧠 About Me
+### 🎮 Guess The Word Game
 
-```cpp
-class MohamedAlkenani {
-public:
-    string role = "Full Stack Developer & Cyber Security Learner";
-    string[] platforms = { "Linux", "Windows" };
-    string[] tools = { "VS Code", "CLion" };
-    string favLang = "C++";
-};
-<!-- Animation script --> <script> const nameTag = document.getElementById("dynamic-name"); let visible = true; setInterval(() => { nameTag.style.opacity = visible ? "0" : "1"; visible = !visible; }, 1500); </script>
+```yaml
+Project:
+  Name: Guess The Word Game
+
+Technologies:
+  - HTML
+  - CSS
+  - JavaScript
+
+Features:
+  - Random words system
+  - User input validation
+  - Game logic
+  - Dynamic UI
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alkeenani/alkeenani/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# 🏆 Developer Achievements
+
+<div align="center">
+
+| Achievement | Status |
+|---|---|
+| 🚀 Built JavaScript Projects | ✅ |
+| 🌱 Learning MERN Stack | 🔥 |
+| 🧠 Improving Problem Solving | 🔥 |
+| 🔧 Using Git & GitHub | ✅ |
+| 🐧 Linux Environment | ✅ |
+
+</div>
+
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-alkenani-a86189370/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/mhmed_77_7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://t.me/mhmedalkenani">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### ☕ "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=alkeenani&style=for-the-badge&color=blue"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,100:020617&section=footer"/>
+
+</div>
