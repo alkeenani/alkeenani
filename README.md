@@ -169,11 +169,6 @@ http://localhost:3000 🚀
 <img src="https://streak-stats.demolab.com?user=alkeenani&theme=tokyonight&hide_border=true"/>
 
 </div>
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=alkeenani&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 # 📈 Contribution Activity
