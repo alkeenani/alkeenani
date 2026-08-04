@@ -126,18 +126,7 @@ Mohamed@developer:~$
 </div>
 # 🚀 Current Focus
 
-```text
-████████████████████  JavaScript
-
-██████████████████░░  React
-
-███████████████░░░░░  Node.js
-
-██████████████░░░░░░  Express
-
-████████████░░░░░░░░  MongoDB
-
-███████████░░░░░░░░░  Git & GitHub
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkeenani&theme=tokyo-night&hide_border=true"/>
 ```
 # 🚀 Featured Projects
 
