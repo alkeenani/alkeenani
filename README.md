@@ -27,7 +27,7 @@
 ║  FRONTEND      : React.js                            ║
 ║  BACKEND       : Node.js + Express                   ║
 ║  DATABASE      : MongoDB                             ║
-║  SECURITY      : Learning Cyber Security             ║
+║                                                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
