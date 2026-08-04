@@ -279,8 +279,9 @@ Features:
 
 ## 🌍 Connect With Me
 
-<div align="center">
 
+<div align="center">
+<br>
 <a href="mailto:mohamedalkenanimohamed@gmail.com">
 <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-0ea5e9?style=for-the-badge"/>
 </a>
