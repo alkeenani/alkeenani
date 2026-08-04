@@ -24,14 +24,27 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" align="center">
 </td>
 </tr>
 </table>
-## Developer Console
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=22C55E&center=true&width=650&lines=Starting+Developer+Environment...;Loading+React...;Connecting+Node.js...;Connecting+MongoDB...;System+Ready+✓"/>
+<img src="https://komarev.com/ghpvc/?username=alkeenani&label=VISITORS&style=for-the-badge&color=06B6D4"/>
+
+</div>
+<div align="left">
+
+<h2>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" valign="middle"/>
+  <span valign="middle">Developer Console</span>
+</h2>
+
+</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=22C55E&center=true&width=650&lines=Starting+Developer+Environment...;Loading+React...;Connecting+Node.js...;Connecting+MongoDB...;System+Ready"/>
 
 </div>
 
@@ -272,42 +285,37 @@ Features:
 </picture>
 
 </div>
-# 🌍 Let's Connect
+# 🌍 Connect With Me
 
 <div align="center">
 
+<a href="mailto:mohamedalkenanimohamed@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-0ea5e9?style=for-the-badge"/>
+</a>
+
 <a href="https://www.linkedin.com/in/mohamed-alkenani-a86189370/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Professional-2563eb?style=for-the-badge"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/mhmed_77_7">
-
-<img src="https://skillicons.dev/icons?i=instagram"/>
-
-</a>
-
-&nbsp;&nbsp;
 
 <a href="https://t.me/mhmedalkenani">
-
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
-
+<img src="https://img.shields.io/badge/💬%20Telegram-Message%20Me-06b6d4?style=for-the-badge"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:mohamedalkenanimohamed@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://www.instagram.com/mhmed_77_7">
+<img src="https://img.shields.io/badge/📷%20Instagram-Follow-E1306C?style=for-the-badge"/>
 </a>
 
 </div>
+
 <div align="center">
+
+### 🤝 Open to Collaboration • Freelance • Open Source
+
+</div>
+
+<div align="center">
+
+
 
 ## ⭐ Thanks For Visiting
 
