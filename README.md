@@ -28,7 +28,7 @@
 </td>
 </tr>
 </table>
-##Developer Console
+## Developer Console
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=22C55E&center=true&width=650&lines=Starting+Developer+Environment...;Loading+React...;Connecting+Node.js...;Connecting+MongoDB...;System+Ready+✓"/>
@@ -113,19 +113,7 @@ http://localhost:3000 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp,linux,windows&theme=dark"/>
 
 </div>
-# 📦 Developer Toolbox
 
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| 🎨 Front-End | HTML • CSS • JavaScript • React |
-| ⚙️ Back-End | Node.js • Express • MongoDB |
-| 🔧 Tools | Git • GitHub • VS Code |
-| 💻 Languages | JavaScript • C++ |
-| 🖥 Operating Systems | Windows • Linux |
-
-</div>
 # 🚀 Daily Workflow
 
 ```text
@@ -164,17 +152,6 @@ http://localhost:3000 🚀
 
 </div>
 
-🚀 Daily Workflow
-
-☕
- ↓
-💡
- ↓
-⌨️
- ↓
-🐛
- ↓
-🚀
 # 📊 GitHub Dashboard
 
 <div align="center">
