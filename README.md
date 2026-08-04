@@ -24,11 +24,11 @@
 
 <td>
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="320">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
+</td>
 </tr>
 </table>
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Developer Console
-
+## <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/> Developer Console
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=22C55E&center=true&width=650&lines=Starting+Developer+Environment...;Loading+React...;Connecting+Node.js...;Connecting+MongoDB...;System+Ready+✓"/>
@@ -293,6 +293,8 @@ Features:
   - Dynamic Game Logic
   - Input Validation
   - Modern UI
+```
+
 # 📂 What I Build
 
 <div align="center">
