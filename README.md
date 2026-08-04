@@ -28,7 +28,7 @@
 </td>
 </tr>
 </table>
-## <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/> Developer Console
+## Developer Console
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=22C55E&center=true&width=650&lines=Starting+Developer+Environment...;Loading+React...;Connecting+Node.js...;Connecting+MongoDB...;System+Ready+✓"/>
