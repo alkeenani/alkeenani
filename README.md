@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Mohamed+System...;Welcome+To+My+Digital+World+⚡;MERN+Stack+Developer+🚀;Building+Modern+Web+Applications;Learning+Cyber+Security+🔐"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Mohamed+System...;Welcome+To+My+Digital+World+⚡;MERN+Stack+Developer+🚀;Building+Modern+Web"/>
 
 </div>
 
