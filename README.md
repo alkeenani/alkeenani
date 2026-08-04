@@ -96,7 +96,8 @@ http://localhost:3000 🚀
 
 └──────────────────────────────────────────────────────────────┘
 ```
-# ⚡ Developer Status
+
+## ⚡ Developer Status
 
 <div align="center">
 
@@ -105,7 +106,8 @@ http://localhost:3000 🚀
 | ████████░░ 80% | ██████████ 100% | ███████░░░ 70% | ██████████ ∞ |
 
 </div>
-# ⚡ Tech Arsenal
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -148,23 +150,6 @@ http://localhost:3000 🚀
 😎 Repeat
 ```
 
-## 🔥 Technologies I Love
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
 
 ## 📊 GitHub Dashboard
 
