@@ -1,280 +1,221 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,50:1e40af,100:06b6d4&text=MOHAMED%20ALKENANI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20CYBER%20SECURITY%20LEARNER&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=12,20,24&text=MOHAMED%20ALKENANI&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Mohamed+System...;Welcome+To+My+Digital+World+⚡;MERN+Stack+Developer+🚀;Building+Modern+Web"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=3000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile+👋;Full+Stack+JavaScript+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alkeenani&style=for-the-badge&color=0e75b6"/>
 
 </div>
-
-
-<br>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║              MOHAMED OS v2.0                         ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  SYSTEM STATUS : 🟢 ONLINE                           ║
-║  USER          : Mohamed Alkenani                    ║
-║  ROLE          : MERN Stack Developer                ║
-║  MODE          : Building & Learning                 ║
-║  LOCATION      : Egypt 🇪🇬                            ║
-║                                                      ║
-║  FRONTEND      : React.js                            ║
-║  BACKEND       : Node.js + Express                   ║
-║  DATABASE      : MongoDB                             ║
-║                                                      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
 
 ---
 
-# 🧠 About Me
+# 👋 Hello, I'm Mohamed
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║      🚀 Full Stack JavaScript Developer      ║
+║                                              ║
+║      🇪🇬 Egypt                               ║
+║      💻 MERN Stack                           ║
+║      🌱 Learning Every Day                   ║
+║      ⚡ Clean Code Lover                     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+# 👨‍💻 About Me
 
 ```javascript
-const Mohamed = {
+const mohamed = {
 
     name: "Mohamed Alkenani",
 
-    role: "MERN Stack Developer",
+    role: "Full Stack JavaScript Developer",
 
-    passion: [
-        "Web Development",
-        
-        "Problem Solving"
-    ],
+    location: "Egypt",
 
-    operatingSystems: [
-        "Linux",
-        "Windows"
-    ],
-
-    editors: [
-        "VS Code",
-        "CLion"
-    ],
-
-    languages: [
-        "JavaScript",
-        "C++",
+    stack: [
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
     ],
 
-    currentMission:
-        "Building powerful applications and improving my skills every day"
+    currentlyLearning: [
+        "React",
+        "Node.js",
+        "Backend Architecture"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Problem Solving",
+        "Learning New Technologies"
+    ],
+
+    lifeGoal:
+        "Become a Professional Full Stack Developer"
 
 };
 ```
-
----
-
 # 💻 Terminal
 
 ```bash
-Mohamed@Developer:~$ ./start-profile.sh
+Mohamed@developer:~$ whoami
 
-
-[✓] Loading Developer Profile...
-
-[████████████████████] 100%
-
-
-> Name:
 Mohamed Alkenani
 
+Mohamed@developer:~$ stack
 
-> Role:
-MERN Stack Developer
-
-
-> Skills:
-JavaScript
-React
+React.js
 Node.js
-Express
+Express.js
 MongoDB
 
+Mohamed@developer:~$ current-status
 
-> Tools:
-Git
-GitHub
-VS Code
-CLion
+Building awesome web applications...
 
-
-> Status:
-Always Learning 🚀
-
-
-Mohamed@Developer:~$
+Mohamed@developer:~$
 ```
-
----
-
-# ⚡ Developer Identity
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,linux&theme=dark"/>
 
 </div>
-
----
-
-# 🛠 Tech Arsenal
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux,windows,cpp&theme=dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alkeenani&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </div>
-
----
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alkeenani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alkeenani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeenani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeenani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeenani&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alkeenani&theme=tokyonight&hide_border=true"/>
 
 </div>
+# 📈 Contribution Activity
 
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkeenani&theme=tokyo-night&hide_border=true"/>
 
-# 🧠 Current Learning System
+</div>
+# 🚀 Current Focus
 
 ```text
-╔══════════════════════════════════════════╗
-║              LEARNING MODULE             ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  JavaScript        ██████████ 90%       ║
-║  React             ███████░░░ 70%       ║
-║  Node.js           ██████░░░░ 60%       ║
-║  MongoDB           █████░░░░░ 50%       ║
-║  Cyber Security    ████░░░░░░ 40%       ║
-║                                          ║
-╚══════════════════════════════════════════╝
+████████████████████  JavaScript
+
+██████████████████░░  React
+
+███████████████░░░░░  Node.js
+
+██████████████░░░░░░  Express
+
+████████████░░░░░░░░  MongoDB
+
+███████████░░░░░░░░░  Git & GitHub
 ```
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/alkeenani">
+<a href="https://github.com/alkeenani/Guess-The-Word-Game">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=alkeenani&repo=Guess-The-Word-Game&theme=tokyonight&hide_border=true"/>
+
 </a>
 
 </div>
 
+---
 
 ### 🎮 Guess The Word Game
 
 ```yaml
-Project:
-  Name: Guess The Word Game
+Type:
+  Front-End Project
 
-Technologies:
+Built With:
   - HTML
   - CSS
   - JavaScript
 
 Features:
-  - Random words system
-  - User input validation
-  - Game logic
-  - Dynamic UI
+  - Random Word Generator
+  - Dynamic Game Logic
+  - Input Validation
+  - Modern UI
 ```
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alkeenani/alkeenani/gh-pages/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alkeenani/alkeenani/gh-pages/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alkeenani/alkeenani/gh-pages/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/alkeenani/alkeenani/gh-pages/github-contribution-grid-snake.svg"/>
+
+</picture>
 
 </div>
-
-
----
-
-# 🏆 Developer Achievements
-
-<div align="center">
-
-| Achievement | Status |
-|---|---|
-| 🚀 Built JavaScript Projects | ✅ |
-| 🌱 Learning MERN Stack | 🔥 |
-| 🧠 Improving Problem Solving | 🔥 |
-| 🔧 Using Git & GitHub | ✅ |
-| 🐧 Linux Environment | ✅ |
-
-</div>
-
-
----
-
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-alkenani-a86189370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="https://www.instagram.com/mhmed_77_7">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
+
 </a>
 
 <a href="https://t.me/mhmedalkenani">
+
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+
 </a>
 
 </div>
-
-
----
-
 <div align="center">
 
-### ☕ "Code. Learn. Build. Repeat."
+## ⭐ Thanks for Visiting My Profile
 
-<img src="https://komarev.com/ghpvc/?username=alkeenani&style=for-the-badge&color=blue"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,100:020617&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </div>
