@@ -1,22 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=24,12,20&text=MOHAMED%20ALKENANI&fontColor=ffffff&fontSize=60&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20JAVASCRIPT%20DEVELOPER&descAlignY=58&descSize=18"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=console.log(%22Hello+World!%22);Welcome+To+My+GitHub+Profile;Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+Something+New+🚀"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=alkeenani&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/alkeenani?style=for-the-badge&logo=github&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/alkeenani?style=for-the-badge&logo=github&color=facc15"/>
-
-</div>
-
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&text=MOHAMED%20ALKENANI&height=100&fontSize=50"/>
@@ -42,10 +24,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
-
-</td>
-
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="320">
 </tr>
 </table>
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Developer Console
@@ -221,9 +200,9 @@ Tools         Git GitHub VSCode
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkeenani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alkeenani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeenani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alkeenani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -231,7 +210,7 @@ Tools         Git GitHub VSCode
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=alkeenani&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alkeenani&theme=tokyonight&hide_border=true"/>
 
 </div>
 # 🏆 GitHub Achievements
@@ -290,29 +269,30 @@ Tools         Git GitHub VSCode
 
 <a href="https://github.com/alkeenani/Guess-The-Word-Game">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alkeenani&repo=Guess-The-Word-Game&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/alkeenani/Pet-Care-E-Commerce-Platform">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alkeenani&repo=Pet-Care-E-Commerce-Platform&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alkeenani&repo=Guess-The-Word-Game&theme=tokyonight&hide_border=true"/>
 
 </a>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+### 🎮 Guess The Word Game
 
-<a href="https://github.com/alkeenani">
+```yaml
+Type:
+  Front-End Project
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=alkeenani&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+Built With:
+  - HTML
+  - CSS
+  - JavaScript
 
-</a>
-
-</div>
+Features:
+  - Random Word Generator
+  - Dynamic Game Logic
+  - Input Validation
+  - Modern UI
 # 📂 What I Build
 
 <div align="center">
