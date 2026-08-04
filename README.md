@@ -48,7 +48,7 @@ const Mohamed = {
 
     passion: [
         "Web Development",
-        "Cyber Security",
+        
         "Problem Solving"
     ],
 
